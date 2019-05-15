@@ -9,3 +9,11 @@
 ## 该QQ机器人使用酷Q作为机器人本体
 详情请见
 https://github.com/richardchien/nonebot
+
+## 本qb所用到第三方库:
+nonebot1.3
+pandas0.22
+numpy1.16.3
+requests2.21
+ptyz
+APScheduler 通过pip install "nonebot[scheduler]"直接安装
